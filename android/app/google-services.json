@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "494624527651",
+    "project_id": "devleap",
+    "storage_bucket": "devleap.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494624527651:android:a354d6b18b5f73a4132896",
+        "android_client_info": {
+          "package_name": "com.example.devleap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "494624527651-1vc2trgnqp4vuehqk1pq1t5evh9jahe4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkcyboKh9rUpD5Y5Pql_Sh376apHakwwk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "494624527651-1vc2trgnqp4vuehqk1pq1t5evh9jahe4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
